@@ -6,8 +6,7 @@
 -  [Documentation](https://docs.synthient.com)
 
 ## Tools
--  [`synthient/cli`](https://github.com/synthient/cli):
--  Synthient CLI for investigations and automation.
+-  [`synthient/cli`](https://github.com/synthient/cli): Synthient CLI for investigations and automation.
 -  **Synthient SDKs:**
     * [`synthient/go-synthient`](https://github.com/synthient/go-synthient)
     * [`synthient/dotnet-synthient`](https://github.com/synthient/synthient-dotnet)
